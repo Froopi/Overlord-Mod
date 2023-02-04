@@ -1,0 +1,8 @@
+{
+  "parent": "mymod:custom/momon_sworld",
+  "textures": {
+    "0": "mymod:blocks/momon_sworld_tex",
+    "missing": "mymod:blocks/momon_sworld_tex",
+    "particle": "mymod:items/fire_sworld"
+  }
+}

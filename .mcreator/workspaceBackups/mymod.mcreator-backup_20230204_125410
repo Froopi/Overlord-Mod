@@ -1,0 +1,61 @@
+{
+  "mod_elements": [
+    {
+      "name": "Overlord",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "overlord"
+    },
+    {
+      "name": "Momonsworld",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "momonsworld"
+    },
+    {
+      "name": "Demiyrg",
+      "type": "livingentity",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "demiyrg"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.mymod.momonsworld": "Momonsworld",
+      "item.mymod.demiyrg_spawn_egg": "Demiyrg Spawn Egg",
+      "entity.mymod.demiyrg": "Demiyrg",
+      "itemGroup.taboverlord": "Overlord"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "mymod",
+    "modName": "mymod",
+    "version": "1.0.0",
+    "author": "quil567",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.mymod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

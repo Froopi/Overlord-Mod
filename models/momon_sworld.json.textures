@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "momon_sworld_tex",
+        "missing": "momon_sworld_tex"
+      },
+      "name": "default"
+    }
+  }
+}
